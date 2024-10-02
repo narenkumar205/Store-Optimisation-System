@@ -3,4 +3,5 @@ This python application uses customer data such as age and gender etc etc to cre
 
 
 
-The real time data was gathered from a local NILGIRIS store and a custom tkinter based gui was built and given to the management of the local NILGIRIS
+The real time data was gathered from a local NILGIRIS store and a custom tkinter based gui application was built and given to the management of the local NILGIRIS
+n
